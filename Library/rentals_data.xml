@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRental xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rental>
+    <Id>20566</Id>
+    <User>
+      <Id>21566</Id>
+      <Name>Nik</Name>
+      <Email>email_nik@gmail.com</Email>
+    </User>
+    <Book>
+      <Id>20576</Id>
+      <Title>Wonderland</Title>
+      <Author>Finil I.</Author>
+      <Genre>Fiction</Genre>
+      <PublicationYear>1408</PublicationYear>
+      <Status>not available</Status>
+    </Book>
+    <RentalDate>2024-10-18T12:49:15.1857978+03:00</RentalDate>
+    <ReturnDate>2024-11-01T12:49:15.1858705+02:00</ReturnDate>
+    <Status>active</Status>
+  </Rental>
+  <Rental>
+    <Id>27135</Id>
+    <User>
+      <Id>27393</Id>
+      <Name>John</Name>
+      <Email>jjj@gmail.com</Email>
+    </User>
+    <Book>
+      <Id>27380</Id>
+      <Title>Big J</Title>
+      <Author>J.J.J</Author>
+      <Genre>Fiction</Genre>
+      <PublicationYear>2004</PublicationYear>
+      <Status>not available</Status>
+    </Book>
+    <RentalDate>2024-10-18T16:04:07.2536887+03:00</RentalDate>
+    <ReturnDate>2024-11-01T16:04:07.2536929+02:00</ReturnDate>
+    <Status>overdue</Status>
+  </Rental>
+  <Rental>
+    <Id>16136</Id>
+    <User>
+      <Id>16328</Id>
+      <Name>Mia</Name>
+      <Email>soeso@gmail.com</Email>
+    </User>
+    <Book>
+      <Id>16323</Id>
+      <Title>Moon</Title>
+      <Author>Jef</Author>
+      <Genre>Fiction</Genre>
+      <PublicationYear>2021</PublicationYear>
+      <Status>available</Status>
+    </Book>
+    <RentalDate>2024-10-18T16:05:03.0828165+03:00</RentalDate>
+    <ReturnDate>2024-11-01T16:05:03.0828183+02:00</ReturnDate>
+    <Status>returned</Status>
+  </Rental>
+</ArrayOfRental>
